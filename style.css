@@ -1,0 +1,97 @@
+.body {
+    height: 100vh;
+    width: 100vw;
+    background-color: gray;
+    place-items: center;
+    margin-top: 200px;
+    margin-left: 40%;
+
+
+}
+
+.bigbox {
+    margin: 10px;
+    width: 250px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+.img {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.h3 {
+    margin: 5px;
+    font-weight: 800;
+}
+
+.burger {
+    margin: 7px;
+    color: aqua;
+}
+
+.icon {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.h6 {
+    margin-left: 73%;
+    /* padding-bottom: 100px; */
+    margin-top: -4px;
+}
+
+.fire {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+
+}
+
+.Kcal {
+    margin: 0;
+    margin-left: 20px;
+    margin-top: -14px;
+}
+
+.btn {
+    background-color: rgb(113, 230, 95);
+    border-radius: 7px;
+    padding: 2px 10px;
+    margin: 5px;
+    margin-top: 0%;
+
+
+}
+
+.line {
+    margin: 10px;
+}
+
+.amount {
+    color: darkorange;
+    font-weight: bolder;
+    margin: 10px;
+    justify-content: flex-start;
+}
+
+.end {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ico {
+    margin: 7px;
+    color: gray
+}
+
+.bi bi-dash-square {
+
+    ;
+}
